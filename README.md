@@ -4,7 +4,7 @@ This is my first demo, which is totally based on Html, CSS and JavaScript.
 I haven't shared this tiny demo with others, I hope you will like it.
 
 # Wanna Check it out!
-Here are several easy steps:
+Here are 2 very easy steps:
 1. Download the whole file on your local computer.
 2. Run 'calculator.html' and that's it!
 
