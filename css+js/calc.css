@@ -1,0 +1,65 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+div{
+	width: 225px;
+}
+
+#head{
+	height: 50px;
+	position: absolute;
+	top:-50px;
+	background-color: rgb(100,120,255);
+	text-align: center;
+	line-height: 50px;
+	color:white;
+}
+
+#author{
+	height: 17px;
+	width: 50px;
+	position:absolute;
+	bottom: 0px;
+	right: 8%;
+	background-color: rgb(110,120,220);
+	font-size: 7px;
+	text-align: center;
+	line-height: 20px;
+
+}
+
+#author:hover{
+	background-color: white;
+	color: black;
+}
+
+#frame{
+	top:20%;
+	left:35%;
+	position: fixed;
+	background-color: rgb(100,200,255);
+	box-shadow: 0px 0px 5px 5px #ccc;
+}
+
+
+input[type="button"]{
+	width: 40px;
+	margin: 5px;
+}
+input[type="text"]{
+	text-align: right;
+	width: 210px;
+	left:4px;
+	position: relative;
+	background-color: white;
+	border: 1px solid;
+	padding-right: 5px;
+	box-sizing: border-box;
+}
+
+input[type="button"]:hover{
+	background-color: yellow;
+	border: 1px solid black;	
+}
