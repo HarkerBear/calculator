@@ -1,7 +1,8 @@
 # Background:
 I made this calculator demo in 2016 when I firstly touched programming.
 This is my first demo, which is totally based on Html, CSS and JavaScript.
-I haven't shared this tiny demo with others, I hope you will like it.
+I haven't shared this tiny demo with others before, and it's time to give it a home here. :)
+I hope you will find it interesting!😊
 
 # Wanna Check it out!
 Here are 2 very easy steps:
