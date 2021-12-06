@@ -10,7 +10,7 @@ Here are 2 very easy steps:
 2. Run 'calculator.html' and that's it!
 
 # Wanna contact the author!
-My emial address is yiyu_tian@berkeley.edu, please begin with [calculator demo] for the title.
+My emial address is timyiyu.berkeley@gmail.com, please begin with [calculator demo] for the title.
 I also put my LinkdIn page in this demo. On the top of the calculator, you can see a block, named 'by Yiyu'.
 Click it and you will know me more!
 I am open to any advice and disscussions. Please feel free to cantact me!
